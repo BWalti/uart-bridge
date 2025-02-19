@@ -1,0 +1,11 @@
+{
+    "name": "esp32_c3_passthrough",
+    "version": "1.0.0",
+    "frameworks": "arduino",
+    "platforms": "espressif32",
+    "authors": {
+      "name": "Beat Walti",
+      "email": "beat_walti@epam.com"
+    }
+  }
+  

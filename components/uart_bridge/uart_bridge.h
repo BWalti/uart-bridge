@@ -1,6 +1,5 @@
 #include "esphome/core/component.h"
 #include "esphome/components/uart/uart.h"
-#include "driver/usb_serial_jtag.h"
 
 namespace esphome {
 namespace uart_bridge {
